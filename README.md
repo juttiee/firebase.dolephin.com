@@ -1,2 +1,2 @@
 # dolephin.com
-dolephin.com web
+dolephin.com web on Firebase host
